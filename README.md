@@ -1,5 +1,7 @@
 # BA-T8 — Urban Tree Species Distribution & Contribution Dashboard
 
+[DASHBOARD](https://public.tableau.com/app/profile/santhosh.v2k7/viz/UrbanTreeSpeciesDistributionContributionDashboard/UrbanTreeSpeciesDistributionContributionDashboard?publish=yes)
+
 ## 📊 Project Overview
 
 This project uses **Tableau Public** to analyze the distribution, contribution, and physical characteristics of urban tree species using an interactive dashboard.
